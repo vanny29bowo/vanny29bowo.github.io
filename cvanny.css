@@ -1,8 +1,43 @@
-h1{font-family: arial, verdana, sans-serief;
-	background: green;
-font-size: 60px;
-font-weight: normal;}
+body{
+	background-color: whitesmoke;
+}
+#design1{
+	color:white;
+	background: #6eb8b5;
+	text-align: center;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-variant: small-caps;
+}
 
-p{font-family: "Times New Roman", serif;
-  font-size: 10px;
- }
+#design2{
+	color:white;
+	background:  #ff579c;
+	font-family: courier new;
+	font-style: bold;
+
+}
+
+.one{ /* box years experience */
+	text-decoration-color: green;
+	border-style: double;
+	border-color: #ff9eb8;
+	display: inline-block;
+	padding: 15px;
+
+}
+
+#two{ /* contact personal */
+	border-style: solid;
+	border-color: #ff6699;
+	display: inline-block;
+	padding: 10px;
+	background: #ffcccc;
+	background-position: left;
+	font-style: serif;
+} 
+
+#three{
+	font-family: 'Courier New', Courier, monospace;
+	background-color:white;
+}
+
